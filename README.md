@@ -2,7 +2,7 @@
 
 ## Who are we?
 
-The tech team behind **[Agriconomie.com](https://www.agriconomie.com)**.
+French tech team behind **[Agriconomie.com](https://www.agriconomie.com)**.
 
 As our CEO, Paolin, says:
 
@@ -19,6 +19,7 @@ Our mission is to build the best ecommerce plateform and services for farmers, h
 - **Wu**, Dev (since early 2016)
 - **Jason**, Dev (since late 2016)
 - **Vincent**, Dev (since early 2017)
+- **Jean Noé**, Dev (since mid 2017)
 
 ## We are hiring!
 
