@@ -6,14 +6,13 @@ French tech team behind **[Agriconomie.com](https://www.agriconomie.com)**.
 
 As our CEO, Paolin, says:
 
-> Help all farmers to save time and money
+> Help all farmers to save time and money.
 
 Our mission is to build the best ecommerce plateform and services for farmers, helping them in their day to day life.
 
 ## Meet the team!
 
 - **Dinh**, CTO (since 2014)
-
 - **Jeremy**, Lead Developer (since early 2015)
 - **Antoine**, Developer (since mid 2015)
 - **Shengjie**, Developer (since mid 2015)
