@@ -19,7 +19,6 @@ Our mission is to build the best ecommerce plateform and services for farmers, h
 - **Wu**, Developer (since early 2016)
 - **Jason**, Developer (since late 2016)
 - **Vincent**, Developer (since early 2017)
-- **Jean Noé**, Developer (since mid 2017)
 - **Laurent**, Developer (since mid 2017)
 - **Nicolas**, Admin Sys (since mid 2017)
 - **Diane**, Product Owner (since mid 2017)
