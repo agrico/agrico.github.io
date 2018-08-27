@@ -1,4 +1,6 @@
-# agrico.github.io
+<h4 align="center">
+  <img src="https://www.agriconomie.com/assets/images/front/content/logo-agriconomie.png">
+</h4>
 
 ## Who are we?
 
