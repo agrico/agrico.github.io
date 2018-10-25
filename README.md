@@ -18,7 +18,7 @@ Our mission is to build the best online plateform and services for farmers, help
 - **Jason**, Developer (since late 2016)
 - **Vincent**, Developer (since early 2017)
 - **Laurent**, Developer (since mid 2017)
-- **Diane**, Product Owner (since mid 2017)
+- **Bruno**, Developer (since mid 2018)
 
 ## We are hiring!
 
