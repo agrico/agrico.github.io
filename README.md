@@ -15,13 +15,14 @@ Our mission is to build the best online plateform and services for farmers, help
 - **Antoine**, Developer (since mid 2015)
 - **Shengjie**, Developer (since mid 2015)
 - **Wu**, Developer (since early 2016)
-- **Jason**, Developer (since late 2016)
 - **Vincent**, Developer (since early 2017)
 - **Laurent**, Developer (since mid 2017)
 - **Bruno**, Developer (since mid 2018)
+- **Rayan**, Devops (since early 2019)
+- **Charles-Edouard**, Devops (since early 2019)
 
 ## We are hiring!
 
-If you want to join our adventure, just send us an [email](mailto:tech+agrico@agriconomie.com) or check our [recruitment page](https://www.agriconomie.com/recrutement).
+If you want to join our adventure, just send us an [email](mailto:tech+recruitment@agriconomie.com) or check our [recruitment page](https://www.agriconomie.com/recrutement).
 
 Tech team,
