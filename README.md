@@ -11,7 +11,7 @@ Our mission is to build the best online plateform and services for farmers, help
 ## Meet the team!
 
 - **Dinh**, CTO (since 2014)
-- **Jeremy**, Lead Developer (since early 2015)
+- **Jeremy**, Developer (since early 2015)
 - **Antoine**, Developer (since mid 2015)
 - **Shengjie**, Developer (since mid 2015)
 - **Wu**, Developer (since early 2016)
@@ -22,8 +22,6 @@ Our mission is to build the best online plateform and services for farmers, help
 - **Charles-Edouard**, Devops (since early 2019)
 - **Richard**, Developer (since mid 2019)
 - **Rim**, Developer (since mid 2019)
-- **Alexandre**, Developer (since mid 2019)
-- **thierry**, Developer (since mid 2019)
 
 ## We are hiring!
 
